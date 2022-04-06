@@ -56,7 +56,7 @@ body {
   transition: 250ms ease-in-out;
 }
 
-.list .icon svg {
+.list .icon img {
   fill: currentColor;
   width: var(--icon-size);
   height: var(--icon-size);
